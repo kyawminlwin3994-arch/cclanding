@@ -1,0 +1,42 @@
+{
+    "title": "FC Premiere League",
+    "navIconClass": "fa-solid fa-trophy text-yellow-500 text-xl",
+    "navTitleHTML": "BPL<span class=\"text-green-500\">2026</span>",
+    "navBackgroundColor": "#064e3b",
+    "bodyBackgroundColor": "#0f172a",
+    "liveSectionLink": "https://www.bigwin959.com/register?affiliateCode=cricket001",
+    "promoCode": "BPL2026",
+    "bonusTitle": " ",
+    "bonusDesc": "Deposit <span class='text-yellow-400 font-bold'> 500BDT</span> & Get <span class='text-yellow-400 font-bold'>500BDT FREE</span>",
+    "bonusButtonText": "CLAIM 100% BONUS NOW",
+    "bonusButtonLink": "https://www.bigwin959.com/?tid=56086&affiliateCode=heylinkvideo&fbPixelId=1093698699511405",
+    "bonusGradientStart": "#064e3b",
+    "bonusGradientEnd": "#0f172a",
+    "bonusTitleColor": "#ffffff",
+    "bonusDescColor": "#cbd5e1",
+    "bonusAccentColor": "#facc15",
+    "bonusButtonTextColor": "#000000",
+    "bonusButtonGradientStart": "#f59e0b",
+    "bonusButtonGradientEnd": "#d97706",
+    "socialContacts": [
+        {
+            "name": "Facebook",
+            "link": "#",
+            "icon": "fa-brands fa-facebook",
+            "color": "#1877F2"
+        },
+        {
+            "name": "Telegram",
+            "link": "#",
+            "icon": "fa-brands fa-telegram",
+            "color": "#24A1DE"
+        },
+        {
+            "name": "WeChat",
+            "link": "#",
+            "icon": "fa-brands fa-whatsapp",
+            "color": "#25D366"
+        }
+    ],
+    "imageUrl": "https://res.cloudinary.com/dmyocpyxd/image/upload/v1768741799/1.jpg"
+}
